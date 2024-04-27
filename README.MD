@@ -7,16 +7,16 @@ This is a project done during the DIO's "Santander 2024 - Fundamentos de IA para
 ## Used tools in the project
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Craiyon](https://www.craiyon.com)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
-## ✨ Como foi feito ?
+## Creation process
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Generating script using ChatGPT
+- Generating audio using elevenLabs
+- Craiyon to generate banner images
+- Capcut to process audio and add background sounds
 
 ## 📚 Materiais
 
